@@ -96,6 +96,19 @@ src/
  │       └── application.properties
  └── pom.xml
  ```
+## 🧪 API Testing with Postman
+### POST Employee Screenshot
+![POST Employee Screenshot](https://github.com/MADHAN21105/emp_java_spring/blob/main/Screenshot%202025-11-10%20163745.png)
+### GET All Screenshot
+![GET All Screenshot](https://github.com/MADHAN21105/emp_java_spring/blob/main/Screenshot%202025-11-10%20163844.png)
+### DELETE Employee Screenshot
+![DELETE Employee Screenshot](https://github.com/MADHAN21105/emp_java_spring/blob/main/Screenshot%202025-11-10%20164506.png)
+### GET Employee With Id Screenshot
+![GET Employee With Id Screenshot](https://github.com/MADHAN21105/emp_java_spring/blob/main/Screenshot%202025-11-10%20163941.png)
+### Put Employee Screenshot
+![Put Employee Screenshot](https://github.com/MADHAN21105/emp_java_spring/blob/main/Screenshot%202025-11-10%20163941.png)
+
+---
 # 👨‍💻 Author
 
 **Madhan**  
